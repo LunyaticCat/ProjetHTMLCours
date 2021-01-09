@@ -10,7 +10,9 @@ label {
     display: block;
 }
 
-
+header div {
+    display: inline-flex;
+}
 
 @media (max-width: 420px) {
     select {
