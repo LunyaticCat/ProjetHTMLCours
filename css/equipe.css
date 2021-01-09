@@ -14,3 +14,8 @@
         grid-auto-rows: 200px;
     }
 }
+    @media (max-width: 376px) {
+        .pp {
+            display: none;
+        }
+}
