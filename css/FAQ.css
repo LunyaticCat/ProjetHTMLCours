@@ -13,7 +13,7 @@
 }
 .cut {
     display: inline;
-    margin: 0 0 0 0;
+    margin: 0;
 }
 @media (max-width: 1080px) {
     .anchor {
