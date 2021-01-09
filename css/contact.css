@@ -6,10 +6,11 @@
 div {
     display: block;
 }
-
-header div {
-    display: inline-flex;
+label {
+    display: block;
 }
+
+
 
 @media (max-width: 420px) {
     select {
