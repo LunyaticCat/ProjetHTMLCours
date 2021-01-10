@@ -19,6 +19,7 @@
 .menu{
     position: fixed;
     transform: translate3d(45%, -60px, 0);
+    z-index: 1;
 }
 
 .menu2 {
@@ -27,7 +28,7 @@
     display: none;
     top: 15px;
     left: 60px;
-    background-color: rgba(131, 136, 146, 0.5);
+    background-color: rgba(131, 136, 146, 0.8);
 }
 
 #burger-picture {
@@ -46,7 +47,7 @@ body .burger:hover .menu2 {
 .menu2 #submenuForMenu2:hover .submenu {
     display: inline;
     font-weight: bold;
-    background-color: rgba(131, 136, 146, 0.5);
+    background-color: rgba(131, 136, 146, 0.8);
     flex-basis: content-box;
     height: 275%;
     top: 48px;
@@ -55,7 +56,7 @@ body .burger:hover .menu2 {
 nav div:hover .submenu {
     display: flex;
     font-weight: bold;
-    background-color: rgba(131, 136, 146, 0.5);
+    background-color: rgba(131, 136, 146, 0.8);
     flex-basis: content-box;
     height: 275%;
     align-items: stretch;
