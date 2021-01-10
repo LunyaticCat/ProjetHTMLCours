@@ -75,7 +75,7 @@ a:hover {
 
 @media (max-width: 1080px) {
     body {
-        width: 600px;
+        width: 800px;
         background: #bca3e7;
         margin: auto;
     }
@@ -83,7 +83,7 @@ a:hover {
 
 @media (max-width: 420px) {
     body {
-        width: 200px;
+        width: 300px;
     }
 
     p {
