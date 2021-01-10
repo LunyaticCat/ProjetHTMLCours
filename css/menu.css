@@ -16,7 +16,7 @@
     display: none;
 }
 
-.menu{
+.menu {
     position: fixed;
     transform: translate3d(45%, -60px, 0);
     z-index: 1;
@@ -62,7 +62,7 @@ nav div:hover .submenu {
     align-items: stretch;
 }
 
-.menu{
+.menu {
     font-weight: bold;
     height: 50px;
     display: flex;
